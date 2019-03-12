@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="3" failed="1" ignored="4" total="27" passed="19">
+  <reporter-output>
+    <line>
+      <![CDATA[The application is proceeded to the Login Page]]>
+    </line>
+    <line>
+      <![CDATA[The username and password is entered successfully and proceeded to the application page]]>
+    </line>
+    <line>
+      <![CDATA[Title of Tab is :Bouygues]]>
+    </line>
+    <line>
+      <![CDATA[Title of Tab is :REPORTS]]>
+    </line>
+    <line>
+      <![CDATA[Title of Tab is :CHARTS]]>
+    </line>
+    <line>
+      <![CDATA[Title of Tab is :CONFIG]]>
+    </line>
+    <line>
+      <![CDATA[Title of Tab is :KPIS]]>
+    </line>
+    <line>
+      <![CDATA[Title of Tab is :Filters/Options]]>
+    </line>
+    <line>
+      <![CDATA[Latest Available Data Present is: 2019/03/08 16:00UTC]]>
+    </line>
+    <line>
+      <![CDATA[Latest Available Data Present AfterSplit: 2019/03/08]]>
+    </line>
+    <line>
+      <![CDATA[The latest year is: 2019]]>
+    </line>
+    <line>
+      <![CDATA[The latest month is: 03]]>
+    </line>
+    <line>
+      <![CDATA[The latest day is: 08]]>
+    </line>
+    <line>
+      <![CDATA[Date in Advanced Master is:3/7/2019 12:00 AM]]>
+    </line>
+    <line>
+      <![CDATA[Date in Advanced Master after Split is:3/7/2019]]>
+    </line>
+    <line>
+      <![CDATA[The latest startdate in Advanced Master is: 7]]>
+    </line>
+    <line>
+      <![CDATA[The latest startmonth in Advanced Master is: 3]]>
+    </line>
+    <line>
+      <![CDATA[The latest startyear in Advanced Master is: 2019]]>
+    </line>
+    <line>
+      <![CDATA[3/8/2019 12:00 AM]]>
+    </line>
+    <line>
+      <![CDATA[Date in Advanced Master End after Split is:3/8/2019]]>
+    </line>
+    <line>
+      <![CDATA[The latest enddate in Advanced Master is: 8]]>
+    </line>
+    <line>
+      <![CDATA[The latest endmonth in Advanced Master is: 3]]>
+    </line>
+    <line>
+      <![CDATA[The latest endyear in Advanced Master is: 2019]]>
+    </line>
+    <line>
+      <![CDATA[All The Tabs are Latest Date is validated]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the QueryBuilder Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the QueryBuilder Filter Tab]]>
+    </line>
+    <line>
+      <![CDATA[The Cell name is Cell]]>
+    </line>
+    <line>
+      <![CDATA[The Cluster name is E00631.D00631A]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the Cluster Field]]>
+    </line>
+    <line>
+      <![CDATA[The Cluster NE field name is E00631.D00631A]]>
+    </line>
+    <line>
+      <![CDATA[The Cell is present in the Cluster NE text filed]]>
+    </line>
+    <line>
+      <![CDATA[The  Counter Added is available and Countername is:::pmErabEstabAttAdded]]>
+    </line>
+    <line>
+      <![CDATA[<span style='color:#F8F8FF;background-color:#006400;font-size:14px;'><b>The counter is added successfully::</b><span><br/>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the QueryBuilder Filter Tab]]>
+    </line>
+    <line>
+      <![CDATA[The Selected NE Elemnt is ::::Cluster Level]]>
+    </line>
+    <line>
+      <![CDATA[The Selected NE Elemnt is ::::Daily]]>
+    </line>
+    <line>
+      <![CDATA[<span style='color:red;background-color:yellow;font-size:14px;'><b>Table Doesn't have the Selected counter and Dates filtred</b><span><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<span style='color:red;background-color:yellow;font-size:14px;'><b>Failed to Execute the Test with Exception:::Table Doesn't Contains the Slected counter and Dates filtred expected [true] but found [false]</b><span><br/>]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression Testing Suite" duration-ms="624027" started-at="2019-03-12T11:10:59Z" finished-at="2019-03-12T11:21:23Z">
+    <groups>
+    </groups>
+    <test name=" LandingPageTest" duration-ms="15291" started-at="2019-03-12T11:10:59Z" finished-at="2019-03-12T11:11:15Z">
+      <class name="com.ericsson.edos.dopuatautomation.testcases.LandingpageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ericsson.edos.dopuatautomation.testcases.LandingpageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="26" started-at="2019-03-12T16:40:59Z" finished-at="2019-03-12T16:40:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LandingPageTitleTest()[pri:1, instance:com.ericsson.edos.dopuatautomation.testcases.LandingpageTest@73ad2d6]" name="LandingPageTitleTest" duration-ms="2016" started-at="2019-03-12T16:40:59Z" finished-at="2019-03-12T16:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LandingPageTitleTest -->
+        <test-method status="PASS" signature="LegalNoticeLogoTest()[pri:2, instance:com.ericsson.edos.dopuatautomation.testcases.LandingpageTest@73ad2d6]" name="LegalNoticeLogoTest" duration-ms="2043" started-at="2019-03-12T16:41:01Z" finished-at="2019-03-12T16:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LegalNoticeLogoTest -->
+        <test-method status="PASS" signature="LicenseContentLogoTest()[pri:3, instance:com.ericsson.edos.dopuatautomation.testcases.LandingpageTest@73ad2d6]" name="LicenseContentLogoTest" duration-ms="2035" started-at="2019-03-12T16:41:03Z" finished-at="2019-03-12T16:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LicenseContentLogoTest -->
+        <test-method status="PASS" signature="LegalNoticeLogoTextTest()[pri:4, instance:com.ericsson.edos.dopuatautomation.testcases.LandingpageTest@73ad2d6]" name="LegalNoticeLogoTextTest" duration-ms="2043" started-at="2019-03-12T16:41:05Z" finished-at="2019-03-12T16:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LegalNoticeLogoTextTest -->
+        <test-method status="PASS" signature="LicenseContentLogoTextTest()[pri:5, instance:com.ericsson.edos.dopuatautomation.testcases.LandingpageTest@73ad2d6]" name="LicenseContentLogoTextTest" duration-ms="2038" started-at="2019-03-12T16:41:08Z" finished-at="2019-03-12T16:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LicenseContentLogoTextTest -->
+        <test-method status="PASS" signature="ProceedButtonTest()[pri:6, instance:com.ericsson.edos.dopuatautomation.testcases.LandingpageTest@73ad2d6]" name="ProceedButtonTest" duration-ms="5063" started-at="2019-03-12T16:41:10Z" finished-at="2019-03-12T16:41:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The application is proceeded to the Login Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ProceedButtonTest -->
+      </class> <!-- com.ericsson.edos.dopuatautomation.testcases.LandingpageTest -->
+    </test> <!--  LandingPageTest -->
+    <test name="LoginPageTest" duration-ms="18170" started-at="2019-03-12T11:11:15Z" finished-at="2019-03-12T11:11:33Z">
+      <class name="com.ericsson.edos.dopuatautomation.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ericsson.edos.dopuatautomation.testcases.LoginPageTest@5025a98f]" name="setUp" is-config="true" duration-ms="3000" started-at="2019-03-12T16:41:15Z" finished-at="2019-03-12T16:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EdosLogo1Test()[pri:1, instance:com.ericsson.edos.dopuatautomation.testcases.LoginPageTest@5025a98f]" name="EdosLogo1Test" duration-ms="2032" started-at="2019-03-12T16:41:18Z" finished-at="2019-03-12T16:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdosLogo1Test -->
+        <test-method status="PASS" signature="EdosLogo2Test()[pri:2, instance:com.ericsson.edos.dopuatautomation.testcases.LoginPageTest@5025a98f]" name="EdosLogo2Test" duration-ms="2032" started-at="2019-03-12T16:41:20Z" finished-at="2019-03-12T16:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdosLogo2Test -->
+        <test-method status="PASS" signature="EdosLogoText1Test()[pri:3, instance:com.ericsson.edos.dopuatautomation.testcases.LoginPageTest@5025a98f]" name="EdosLogoText1Test" duration-ms="2033" started-at="2019-03-12T16:41:22Z" finished-at="2019-03-12T16:41:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdosLogoText1Test -->
+        <test-method status="PASS" signature="EdosLogoText2Test()[pri:4, instance:com.ericsson.edos.dopuatautomation.testcases.LoginPageTest@5025a98f]" name="EdosLogoText2Test" duration-ms="2040" started-at="2019-03-12T16:41:24Z" finished-at="2019-03-12T16:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdosLogoText2Test -->
+        <test-method status="PASS" signature="SetusernameTest()[pri:5, instance:com.ericsson.edos.dopuatautomation.testcases.LoginPageTest@5025a98f]" name="SetusernameTest" duration-ms="2796" started-at="2019-03-12T16:41:26Z" finished-at="2019-03-12T16:41:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetusernameTest -->
+        <test-method status="PASS" signature="SetUserPasswordTest()[pri:6, instance:com.ericsson.edos.dopuatautomation.testcases.LoginPageTest@5025a98f]" name="SetUserPasswordTest" duration-ms="2131" started-at="2019-03-12T16:41:29Z" finished-at="2019-03-12T16:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUserPasswordTest -->
+        <test-method status="PASS" signature="ClickEnterButtonTest()[pri:7, instance:com.ericsson.edos.dopuatautomation.testcases.LoginPageTest@5025a98f]" name="ClickEnterButtonTest" duration-ms="2100" started-at="2019-03-12T16:41:31Z" finished-at="2019-03-12T16:41:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The username and password is entered successfully and proceeded to the application page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickEnterButtonTest -->
+      </class> <!-- com.ericsson.edos.dopuatautomation.testcases.LoginPageTest -->
+    </test> <!-- LoginPageTest -->
+    <test name="ApplicationPageTest" duration-ms="22815" started-at="2019-03-12T11:11:33Z" finished-at="2019-03-12T11:11:56Z">
+      <class name="com.ericsson.edos.dopuatautomation.testcases.applicationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ericsson.edos.dopuatautomation.testcases.applicationTest@dc24521]" name="setUp" is-config="true" duration-ms="3" started-at="2019-03-12T16:41:33Z" finished-at="2019-03-12T16:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyCMPMDashboard()[pri:5, instance:com.ericsson.edos.dopuatautomation.testcases.applicationTest@dc24521]" name="VerifyCMPMDashboard" duration-ms="22809" started-at="2019-03-12T16:41:33Z" finished-at="2019-03-12T16:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCMPMDashboard -->
+      </class> <!-- com.ericsson.edos.dopuatautomation.testcases.applicationTest -->
+    </test> <!-- ApplicationPageTest -->
+    <test name="PerformancePortalPageTest" duration-ms="5015" started-at="2019-03-12T11:11:56Z" finished-at="2019-03-12T11:12:01Z">
+      <class name="com.ericsson.edos.dopuatautomation.testcases.PerformancePortalTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ericsson.edos.dopuatautomation.testcases.PerformancePortalTest@3c0f93f1]" name="setUp" is-config="true" duration-ms="3" started-at="2019-03-12T16:41:56Z" finished-at="2019-03-12T16:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyPerformancePortalTest()[pri:1, instance:com.ericsson.edos.dopuatautomation.testcases.PerformancePortalTest@3c0f93f1]" name="VerifyPerformancePortalTest" duration-ms="5011" started-at="2019-03-12T16:41:56Z" finished-at="2019-03-12T16:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPerformancePortalTest -->
+      </class> <!-- com.ericsson.edos.dopuatautomation.testcases.PerformancePortalTest -->
+    </test> <!-- PerformancePortalPageTest -->
+    <test name="BouyguesPageTest" duration-ms="562642" started-at="2019-03-12T11:12:01Z" finished-at="2019-03-12T11:21:23Z">
+      <class name="com.ericsson.edos.dopuatautomation.testcases.BouyguesTest">
+        <test-method status="PASS" signature="initialisation()[pri:0, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938]" name="initialisation" is-config="true" duration-ms="7709" started-at="2019-03-12T16:40:52Z" finished-at="2019-03-12T16:40:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938]" name="setUp" is-config="true" duration-ms="17" started-at="2019-03-12T16:42:01Z" finished-at="2019-03-12T16:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyAllTitleTest()[pri:1, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938]" name="VerifyAllTitleTest" duration-ms="62098" started-at="2019-03-12T16:42:01Z" finished-at="2019-03-12T16:43:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title of Tab is :Bouygues]]>
+            </line>
+            <line>
+              <![CDATA[Title of Tab is :REPORTS]]>
+            </line>
+            <line>
+              <![CDATA[Title of Tab is :CHARTS]]>
+            </line>
+            <line>
+              <![CDATA[Title of Tab is :CONFIG]]>
+            </line>
+            <line>
+              <![CDATA[Title of Tab is :KPIS]]>
+            </line>
+            <line>
+              <![CDATA[Title of Tab is :Filters/Options]]>
+            </line>
+            <line>
+              <![CDATA[Latest Available Data Present is: 2019/03/08 16:00UTC]]>
+            </line>
+            <line>
+              <![CDATA[Latest Available Data Present AfterSplit: 2019/03/08]]>
+            </line>
+            <line>
+              <![CDATA[The latest year is: 2019]]>
+            </line>
+            <line>
+              <![CDATA[The latest month is: 03]]>
+            </line>
+            <line>
+              <![CDATA[The latest day is: 08]]>
+            </line>
+            <line>
+              <![CDATA[Date in Advanced Master is:3/7/2019 12:00 AM]]>
+            </line>
+            <line>
+              <![CDATA[Date in Advanced Master after Split is:3/7/2019]]>
+            </line>
+            <line>
+              <![CDATA[The latest startdate in Advanced Master is: 7]]>
+            </line>
+            <line>
+              <![CDATA[The latest startmonth in Advanced Master is: 3]]>
+            </line>
+            <line>
+              <![CDATA[The latest startyear in Advanced Master is: 2019]]>
+            </line>
+            <line>
+              <![CDATA[3/8/2019 12:00 AM]]>
+            </line>
+            <line>
+              <![CDATA[Date in Advanced Master End after Split is:3/8/2019]]>
+            </line>
+            <line>
+              <![CDATA[The latest enddate in Advanced Master is: 8]]>
+            </line>
+            <line>
+              <![CDATA[The latest endmonth in Advanced Master is: 3]]>
+            </line>
+            <line>
+              <![CDATA[The latest endyear in Advanced Master is: 2019]]>
+            </line>
+            <line>
+              <![CDATA[All The Tabs are Latest Date is validated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyAllTitleTest -->
+        <test-method status="PASS" signature="VerifyenodeBUtranCellTest()[pri:2, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938]" name="VerifyenodeBUtranCellTest" duration-ms="64650" started-at="2019-03-12T16:43:03Z" finished-at="2019-03-12T16:44:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyenodeBUtranCellTest -->
+        <test-method status="PASS" signature="ValidateSearchingForCell()[pri:6, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938]" name="ValidateSearchingForCell" duration-ms="52310" started-at="2019-03-12T16:44:07Z" finished-at="2019-03-12T16:45:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on the QueryBuilder Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on the QueryBuilder Filter Tab]]>
+            </line>
+            <line>
+              <![CDATA[The Cell name is Cell]]>
+            </line>
+            <line>
+              <![CDATA[The Cluster name is E00631.D00631A]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on the Cluster Field]]>
+            </line>
+            <line>
+              <![CDATA[The Cluster NE field name is E00631.D00631A]]>
+            </line>
+            <line>
+              <![CDATA[The Cell is present in the Cluster NE text filed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateSearchingForCell -->
+        <test-method status="PASS" signature="VerifyCounterAddedQBReportinTable()[pri:7, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938]" name="VerifyCounterAddedQBReportinTable" duration-ms="64266" started-at="2019-03-12T16:45:00Z" finished-at="2019-03-12T16:46:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The  Counter Added is available and Countername is:::pmErabEstabAttAdded]]>
+            </line>
+            <line>
+              <![CDATA[<span style='color:#F8F8FF;background-color:#006400;font-size:14px;'><b>The counter is added successfully::</b><span><br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyCounterAddedQBReportinTable -->
+        <test-method status="FAIL" signature="VerifyQBReportinTable()[pri:8, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938]" name="VerifyQBReportinTable" duration-ms="318627" started-at="2019-03-12T16:46:04Z" finished-at="2019-03-12T16:51:23Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Table Doesn't Contains the Slected counter and Dates filtred expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Table Doesn't Contains the Slected counter and Dates filtred expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertTrue(Assert.java:41)
+	at com.ericsson.edos.dopuatautomation.testcases.BouyguesTest.VerifyQBReportinTable(BouyguesTest.java:377)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on the QueryBuilder Filter Tab]]>
+            </line>
+            <line>
+              <![CDATA[The Selected NE Elemnt is ::::Cluster Level]]>
+            </line>
+            <line>
+              <![CDATA[The Selected NE Elemnt is ::::Daily]]>
+            </line>
+            <line>
+              <![CDATA[<span style='color:red;background-color:yellow;font-size:14px;'><b>Table Doesn't have the Selected counter and Dates filtred</b><span><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<span style='color:red;background-color:yellow;font-size:14px;'><b>Failed to Execute the Test with Exception:::Table Doesn't Contains the Slected counter and Dates filtred expected [true] but found [false]</b><span><br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyQBReportinTable -->
+        <test-method status="SKIP" signature="VerifyExportToExcel()[pri:9, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938]" name="VerifyExportToExcel" duration-ms="0" started-at="2019-03-12T16:51:23Z" depends-on-methods="com.ericsson.edos.dopuatautomation.testcases.BouyguesTest.VerifyQBReportinTable, com.ericsson.edos.dopuatautomation.testcases.BouyguesTest.VerifyCounterAddedQBReportinTable" finished-at="2019-03-12T16:51:23Z">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method BouyguesTest.VerifyExportToExcel()[pri:9, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938] depends on not successfully finished methods]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method BouyguesTest.VerifyExportToExcel()[pri:9, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938] depends on not successfully finished methods
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1084)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyExportToExcel -->
+        <test-method status="SKIP" signature="VerifyExportToCSV()[pri:10, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938]" name="VerifyExportToCSV" duration-ms="0" started-at="2019-03-12T16:51:23Z" depends-on-methods="com.ericsson.edos.dopuatautomation.testcases.BouyguesTest.VerifyQBReportinTable, com.ericsson.edos.dopuatautomation.testcases.BouyguesTest.VerifyCounterAddedQBReportinTable" finished-at="2019-03-12T16:51:23Z">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method BouyguesTest.VerifyExportToCSV()[pri:10, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938] depends on not successfully finished methods]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method BouyguesTest.VerifyExportToCSV()[pri:10, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938] depends on not successfully finished methods
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1084)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyExportToCSV -->
+        <test-method status="SKIP" signature="VerifyExportToTemplate()[pri:11, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938]" name="VerifyExportToTemplate" duration-ms="0" started-at="2019-03-12T16:51:23Z" depends-on-methods="com.ericsson.edos.dopuatautomation.testcases.BouyguesTest.VerifyQBReportinTable, com.ericsson.edos.dopuatautomation.testcases.BouyguesTest.VerifyCounterAddedQBReportinTable" finished-at="2019-03-12T16:51:23Z">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method BouyguesTest.VerifyExportToTemplate()[pri:11, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938] depends on not successfully finished methods]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method BouyguesTest.VerifyExportToTemplate()[pri:11, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938] depends on not successfully finished methods
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1084)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyExportToTemplate -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ericsson.edos.dopuatautomation.testcases.BouyguesTest@4fe3c938]" name="tearDown" is-config="true" duration-ms="1138" started-at="2019-03-12T16:51:23Z" finished-at="2019-03-12T16:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ericsson.edos.dopuatautomation.testcases.BouyguesTest -->
+    </test> <!-- BouyguesPageTest -->
+  </suite> <!-- Regression Testing Suite -->
+</testng-results>
